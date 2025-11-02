@@ -1,4 +1,4 @@
-const version = 'v123456'
+const version = 'v1234567'
 const CURRENT_CACHE = `vue-pwa-${version}`
 const urlToCache = []
 self.addEventListener('install', (event) => {
